@@ -1,0 +1,1 @@
+{"rustc":17648274273830927897,"features":"[]","target":11030997089155572898,"profile":7866973095452336542,"path":1036222786711178230,"deps":[["nom v5.0.0","nom",7395602973290224994]],"local":[{"MtimeBased":[[1564339507,172584600],".fingerprint/c_compiler-97b3f699f76dc615/dep-bin-c_compiler-97b3f699f76dc615"]}],"rustflags":[],"edition":"Edition2018"}
